@@ -290,4 +290,4 @@ Se proviamo ad aprirlo, andare nella cartella Home e creare un file .txt potremo
 Io avendo fatto lo stesso procedimento anche per Kyotaka adesso avrò una cartella condivisa tra il Server2019 e i due account.<br><br><br>
 
 
-NOTA: Nel caso doveste ricevere un messaggio d'errore quando provate ad aprire la VM Windows 10 che dice "The remote computer...NLA" o altri problemi di accesso vi consiglio di cercare su youtube "IT: Creating <br>Homelab Using Azure Part4 Kevtech IT Support" per risolvere.<br>
+NOTA: Nel caso doveste ricevere un messaggio d'errore quando provate ad aprire la VM Windows 10 che dice "The remote computer...NLA" o altri problemi di accesso vi consiglio di cercare su youtube "IT: Creating Homelab Using Azure Part4 Kevtech IT Support" per risolvere.<br>
